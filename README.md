@@ -6,7 +6,7 @@ Breif Byte empowers your learning and share insights with Brief Byte, the platfo
 
 ## Screenshots 📷
 
-<img src="public/assets/images/briefbytecover.png" alt="Screenshot 1">&nbsp;&nbsp;&nbsp;
+<img src="public/assets/images/breifbytecover.png" alt="Screenshot 1">&nbsp;&nbsp;&nbsp;
 
 ## Technologies ⚛️
 
